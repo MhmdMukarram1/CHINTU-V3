@@ -1,5 +1,5 @@
 {
-  "name": "DogeBot",
+  "name": "CHINTU-V3",
   "version": "3.0.0",
   "description": "None",
   "main": "main.js",
@@ -44,15 +44,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BOTZ-DHANI"
+    "url": "git+https://github.com/MhmdMukarram1/CHINTU-V3"
   },
   "keywords": [
     "Wasu"
   ],
-  "author": "DhaniGans",
+  "author": "MhmdMukarram1",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BOTZ-DHANI/Base-DhaniGans/issue"
+    "url": "https://github.com/MhmdMukarram1/CHINTU-V3/issue"
   },
-  "homepage": "https://github.com/BOTZ-DHANI/BOTZ-DHANI"
+  "homepage": "https://github.com/MhmdMukarram1/CHINTU-V3"
 }
